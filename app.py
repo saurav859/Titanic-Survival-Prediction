@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from joblib import load
 import joblib
 import numpy as np
 
